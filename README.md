@@ -7,5 +7,5 @@ We aim to create a unified filetree for all kinds of data.
 
 **Some Helpful Links**  
 
-[\*nix Filesystem Hierarchy](https://wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
-[Media Spectrum](https://en.wikipedia.org/wiki/Media#Communications)
+* [\*nix Filesystem Hierarchy](https://wikipedia.org/wiki/Filesystem_Hierarchy_Standard)  
+* [Media Spectrum](https://en.wikipedia.org/wiki/Media#Communications)
