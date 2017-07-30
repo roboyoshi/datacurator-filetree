@@ -1,6 +1,10 @@
-## Audio Organization:
+## Audio:
 
-**Top Level Folders:**  
-some people divide the data into multiple folders, others don't and everyone has a good reason to do it his/her way.  
+**Things to Consider/Resolve:**
 
-For Naming the Albums/Compilations/etc, I recommend checking on musicbrainz.org
+* Naming is controversial..!
+* Find a structure that is extendable?
+* top-level folder is a preference.
+* Album Naming: Artist / Artist - Album [Format] {Catalog-ID}/## Track Title.ext
+* check musicbrainz/discogs for album-names
+* how to handle podcasts/audiobooks?
