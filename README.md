@@ -12,6 +12,13 @@ We aim to create a unified filetree for all kinds of data.
 
 **Notes for Contributors**
 
+
 You are free to push changes into the wip (Work-In-Progress) Branch.  
 Please Note that git needs at least 1 file in the last directory that is created in a tree.  
 (e.g.: if you create /documents/my/new/folder/here/ there needs to be a file under "here/".)
+
+* You are free to push changes into the wip (Work-In-Progress) Branch.
+* git needs at least 1 file in the last directory that is created in a tree.
+* please try to minimize exotic characters.  
+* start with a **root** directory
+
