@@ -12,6 +12,8 @@
 General Naming Rules:
 
 - Special Characters should be replaced by Unicode alternative:
+
+```
 	: --> ：		[COLON' (U+003A)]
 	/ --> ∕		[DIVISION SLASH' (U+2215)]
-	
+```
