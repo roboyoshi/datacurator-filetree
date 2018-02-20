@@ -6,150 +6,100 @@
 ╰─$ tree -L 4 -N --charset=UTF8
 .
 ├── README.md
-├── audio
-│   ├── README.MD
-│   ├── artists
-│   │   ├── Bastille
-│   │   │   └── Bastille - 2016 - Wild World [CD - FLAC - Lossless] {CDVX 3159}
-│   │   └── README.md
-│   ├── audiobooks
-│   │   ├── Doyle, Arthur Conan
-│   │   │   └── Arthur Conan Doyle - A Case of Identity.m4b
-│   │   └── Rowling, J. K.
-│   │       └── J. K. Rowling - [Harry Potter 01] - Harry Potter and the Philosopher's Stone.m4b
-│   ├── compilations
-│   │   ├── Bravo Hits
-│   │   │   └── Various Artists - Bravo Hits 1 (1998) [FLAC] {9548-31256-2}
-│   │   └── README.md
-│   ├── podcasts
-│   │   └── Der GameOne-Plauschangriff
-│   │       └── plauschangriff_087_videogamemusik_08.mp3
-│   └── soundtracks
-│       └── Disney Pixar
-│           └── WALL·E [FLAC] {0000174302}
-├── interactive
-│   ├── README.MD
-│   ├── boardgames
-│   │   └── Monopoly
-│   │       ├── board.pdf
-│   │       └── instructions.pdf
-│   ├── cardgames
-│   │   └── Cards Against Humanity
-│   │       └── cards_against_humanity_english_version.pdf
-│   └── videogames
-│       ├── Atari Lynx
-│       │   └── ^Boot ROMs
-│       ├── Magnavox Odyssey²
-│       │   └── placeholder
-│       ├── Microsoft XBOX 360
-│       │   └── Game Title [ID]
-│       ├── Nintendo Game Boy
-│       │   └── Game Title [ID]
-│       ├── Nintendo Game Cube
-│       │   └── Game Title [ID]
-│       ├── Nintendo NES
-│       │   ├── 0-9
-│       │   ├── A
-│       │   ├── B
-│       │   ├── C
-│       │   ├── D
-│       │   ├── E
-│       │   ├── F
-│       │   ├── G
-│       │   ├── H
-│       │   ├── I
-│       │   ├── J
-│       │   ├── K
-│       │   ├── L
-│       │   ├── M
-│       │   ├── N
-│       │   ├── O
-│       │   ├── P
-│       │   ├── Q
-│       │   ├── R
-│       │   ├── S
-│       │   ├── T
-│       │   ├── U
-│       │   ├── V
-│       │   ├── W
-│       │   ├── X
-│       │   ├── Y
-│       │   └── Z
-│       ├── PC (x86-x64)
-│       │   └── Game Title
-│       ├── README.md
-│       └── Sony Playstation 2
-│           └── Game Title [ID]
-├── literature
-│   ├── README.MD
-│   └── books
-│       ├── Doyle, Arthur Conan
-│       │   └── Arthur Conan Doyle - A Case of Identity.mobi
-│       └── Rowling, J. K.
-│           └── J. K. Rowling - [Harry Potter 01] - Harry Potter and the Philosopher's Stone.epub
-├── software
-│   ├── Applications
-│   │   ├── Android
-│   │   │   ├── placeholder
-│   │   │   └── placeholder.md
-│   │   ├── OSX
-│   │   │   └── placeholder
-│   │   ├── README.md
-│   │   ├── Win32
-│   │   │   ├── MKVToolNix
-│   │   │   ├── OpenEmu
-│   │   │   └── placeholder
-│   │   ├── Win64
-│   │   │   ├── placeholder
-│   │   │   └── placeholder.md
-│   │   ├── ios
-│   │   │   └── placeholder.md
-│   │   ├── linux
-│   │   │   └── placeholder.md
-│   │   ├── mac-osx
-│   │   │   └── placeholder.md
-│   │   └── mac-ppc
-│   │       └── placeholder.md
-│   ├── Firmware
-│   │   └── README.md
-│   ├── README.MD
-│   ├── Scripts
-│   │   └── README.md
-│   └── operating-systems
-│       ├── Apple
-│       │   ├── Apple II
-│       │   ├── Mac (Classic)
-│       │   └── Mac (Modern)
-│       ├── Apple Inc.
-│       │   ├── Apple II
-│       │   ├── Classic
-│       │   └── macOS
-│       ├── Commodore International
-│       │   └── Amiga
-│       ├── IBM
-│       │   ├── OS／2
-│       │   └── PC DOS
-│       ├── Microsoft
-│       │   ├── MS DOS
-│       │   └── Windows
-│       └── README.md
-├── video
-│   ├── README.MD
-│   ├── movies
-│   │   ├── The Godfather (1972)
-│   │   │   └── title.mkv
-│   │   └── The Godfather 2 (1974)
-│   │       └── title.mkv
-│   ├── tv-series
-│   │   ├── Attack on Titan (2013)
-│   │   │   ├── Attack.On.Titan.1080p.10bit.DualAudio.BluRay-ABi
-│   │   │   └── Attack.On.Titan.Season.2.1080p.10bit.DualAudio.BluRay-ABi
-│   │   ├── README.MD
-│   │   └── Sherlock (2010)
-│   │       └── Sherlock.S01.1080p.BluRay.x264-DON
-│   └── untouched
-│       └── README.MD
-└── websites
-    └── example.com
-        └── README.MD
+└── root
+    ├── README.md
+    ├── audio
+    │   ├── README.MD
+    │   ├── artists
+    │   │   ├── Bastille
+    │   │   └── README.md
+    │   ├── audiobooks
+    │   │   ├── Doyle, Arthur Conan
+    │   │   └── Rowling, J. K.
+    │   ├── compilations
+    │   │   ├── Bravo Hits
+    │   │   └── README.md
+    │   ├── podcasts
+    │   │   └── Der GameOne-Plauschangriff
+    │   └── soundtracks
+    │       └── Disney Pixar
+    ├── documents
+    ├── images
+    ├── interactive
+    │   ├── README.MD
+    │   ├── boardgames
+    │   │   └── Monopoly
+    │   ├── cardgames
+    │   │   └── Cards Against Humanity
+    │   └── videogames
+    │       ├── Atari Lynx
+    │       ├── Magnavox Odyssey²
+    │       ├── Microsoft XBOX 360
+    │       ├── Nintendo Game Boy
+    │       ├── Nintendo Game Cube
+    │       ├── Nintendo NES
+    │       ├── PC (x86-x64)
+    │       ├── README.md
+    │       └── Sony Playstation 2
+    ├── literature
+    │   ├── 0 SCIENCE AND KNOWLEDGE
+    │   │   ├── 00 Prolegomena
+    │   │   ├── 01 Bibliography. Catalogues
+    │   │   ├── 02 Librarianship
+    │   │   ├── 03 General reference works
+    │   │   ├── 05 Serial publications, periodicals
+    │   │   ├── 06 Organizations as general nature
+    │   │   ├── 07 Newspapers. The Press. Journalism
+    │   │   ├── 08 Polygraphies
+    │   │   └── 09 Manuscripts
+    │   ├── 1 PHILOSOPHY. PSYCHOLOGY
+    │   ├── 2 RELIGION. THEOLOGY
+    │   ├── 3 SOCIAL SCIENCES
+    │   ├── 5 MATHEMATICS. NATURAL SCIENCES
+    │   ├── 6 APPLIED SCIENCES. MEDICINE. TECHNOLOGY
+    │   ├── 7 THE ARTS. RECREATION. ENTERTAINMENT. SPORT
+    │   ├── 8 LANGUAGE. LINGUISTICS. LITERATURE
+    │   ├── 9 GEOGRAPHY. BIOGRAPHY. HISTORY
+    │   ├── README.MD
+    │   └── books
+    │       ├── Doyle, Arthur Conan
+    │       ├── Pratchett, Terry
+    │       └── Rowling, J. K.
+    ├── software
+    │   ├── Applications
+    │   │   ├── Android
+    │   │   ├── OSX
+    │   │   ├── README.md
+    │   │   ├── Win32
+    │   │   ├── Win64
+    │   │   ├── ios
+    │   │   ├── linux
+    │   │   ├── mac-osx
+    │   │   └── mac-ppc
+    │   ├── Firmware
+    │   │   └── README.md
+    │   ├── README.MD
+    │   ├── Scripts
+    │   │   └── README.md
+    │   └── operating-systems
+    │       ├── Apple
+    │       ├── Apple Inc.
+    │       ├── Commodore International
+    │       ├── IBM
+    │       ├── Microsoft
+    │       └── README.md
+    ├── video
+    │   ├── Movies
+    │   │   ├── The Godfather (1972)
+    │   │   └── The Godfather 2 (1974)
+    │   ├── README.MD
+    │   ├── tv-series
+    │   │   ├── Attack on Titan (2013)
+    │   │   ├── README.MD
+    │   │   └── Sherlock (2010)
+    │   └── untouched
+    │       └── README.MD
+    └── web
+        └── example.com
+            └── README.MD
 ```
