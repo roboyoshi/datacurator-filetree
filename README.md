@@ -1,24 +1,43 @@
 # filetree
 A FileTree for r/datacurator
 
-Hello and Welcome to the [r/datacurator](https://reddit.com/r/datacurator) Filetree Repository.  
+Hello and Welcome to the [r/datacurator](https://reddit.com/r/datacurator) filetree repository.  
 
-We aim to create a unified filetree for all kinds of data.  
+We aim to create a unified filetree for all kinds of data. 
 
-**Some Helpful Links**  
+
+
+## Some Links for starters
 
 * [\*nix Filesystem Hierarchy](https://wikipedia.org/wiki/Filesystem_Hierarchy_Standard)  
+
 * [Media Spectrum](https://en.wikipedia.org/wiki/Media#Communications)
 
-**Notes for Contributors**
+* [Universal Decimal Classification](https://en.wikipedia.org/wiki/Universal_Decimal_Classification)
+
+  
+
+## Notes for Contributors
+
+- If your are confident with the changes,
+
+  push changes into the `wip` (Work-In-Progress) branch.
+
+- If you want to share your personal filetree,
+
+  create your own user-branch: `user/nickname`
 
 
-You are free to push changes into the wip (Work-In-Progress) Branch.  
-Please Note that git needs at least 1 file in the last directory that is created in a tree.  
-(e.g.: if you create /documents/my/new/folder/here/ there needs to be a file under "here/".)
 
-* You are free to push changes into the wip (Work-In-Progress) Branch.
-* git needs at least 1 file in the last directory that is created in a tree.
-* please try to minimize exotic characters.  
-* start with a **root** directory
+**Basic Guidelines:**
+
+* start with a *root* directory (`/root`)
+
+* create your folder structure (e.g. `/root/foo/bar`)
+
+* make sure the deeply nested folder contains at least one placeholder file:
+
+  `/root/foo/bar/example.doc`
+
+* add notes with markdown → `README.md` / `notes.md` / `media.md`
 
