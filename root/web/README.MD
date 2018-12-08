@@ -1,6 +1,19 @@
-## The Internet.
+## Content
 
-I know already this is a tricky one - How do we archive the internet ?  
+Basically snapshots/dumps/rips of a given website/webapp bound to a point in time.
 
-We do already split the information, but sometimes we want to preserve whole sites.
-Currently I have a folder with websites and put the raw html/siterips into them.
+
+
+## Sub-Sections
+
+→ High Level Domains which then contain raw dumps of a webpage, ideally seperated by a timestamp.
+
+
+
+## Patterns
+
+
+
+## Resurces
+
+- https://archive.org/

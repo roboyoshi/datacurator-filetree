@@ -1,6 +1,20 @@
-## Software
+## Content
 
-**Things to consider:**
+
+
+## Sub-Sections
+
+
+
+## Patterns
+
+
+
+## Resources
+
+
+
+## Notes
 
 * Software can be more than just PC (x86/x64)
 * Should also include "retro"-software

@@ -1,8 +1,4 @@
-# Literature
-
----
-
-***Note: Heavily WIP**
+## Content
 
 **Common Literature:**
 
@@ -13,7 +9,15 @@
 - Manifestos
 - Short Stories
 
-## Modern Books:
+
+
+## Sub-Sections
+
+→ This Section is following a library classification system, just check the folders.
+
+
+
+## Patterns
 
 * Check https://bookbrainz.org for Proper Author/Title Naming
 * Include ISBN (10 or 13) similar to Music Releases
@@ -24,12 +28,13 @@
 
 	└── Lastname, Firstname
 		└── Firstname Lastname - [Book Series #] - Book Title {ISBN}.ext
-		
-## Non-Fiction / All kinds of Books
+
+
+
+## Resources
+
 There are several classification systems for libraries to sort and catalog books. (See Wikipedia Link on Library Classification)
 In this repository, we want to use such a system and provide examples on how that would be applicable.
-
-## Links:
 
 * https://en.wikipedia.org/wiki/Category:Books_by_type
 * https://en.wikipedia.org/wiki/Library_classification#Methods_or_systems
