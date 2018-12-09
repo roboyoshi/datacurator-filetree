@@ -16,6 +16,4 @@ if [[ $(basename $(pwd)) != "datacurator-filetree" ]]; then exit 1; fi
 
 rm -rf target/*
 find root/ -type d -exec mkdir -p target/{} \;
-zip -r0 "datacurator-filetree-[${VERSION}].zip" target/
-rm -rf target/*
-mv "datacurator-filetree-[${VERSION}].zip" target/
+cd target/ && zip -r0 "datacurator-filetree-${VERSION}.zip" root/ && rm -rf root/
