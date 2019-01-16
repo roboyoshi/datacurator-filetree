@@ -33,9 +33,11 @@
 
 ## Resources
 
-There are several classification systems for libraries to sort and catalog books. (See Wikipedia Link on Library Classification)
-In this repository, we want to use such a system and provide examples on how that would be applicable.
+There are several classification systems for libraries to sort and catalog books. (See Wikipedia Link on Library Classifications)
+In this repository, we want to use such systems and provide examples on how they would be applied.
 
-* https://en.wikipedia.org/wiki/Category:Books_by_type
-* https://en.wikipedia.org/wiki/Library_classification#Methods_or_systems
-* http://www.udcsummary.info/php/index.php
+* [Wikipedia's "Books by Type" Overview](https://en.wikipedia.org/wiki/Category:Books_by_type)
+* [An overview of Library Classification Systems](https://en.wikipedia.org/wiki/Library_classification#Methods_or_systems)
+* [UDC aka Universal Decimal Classification](https://en.wikipedia.org/wiki/Universal_Decimal_Classification)
+* [UDC Summary, a nice page to see the structure](http://www.udcsummary.info/php/index.php)
+* [LCC aka Library of Congress Classification](https://en.wikipedia.org/wiki/Library_of_Congress_Classification)
