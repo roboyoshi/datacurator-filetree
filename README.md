@@ -7,4 +7,4 @@ We aim to create a unified filetree for all kinds of data.
 
 ---
 
-If you are interested in joining our efforts, please read the [CONTRIBUTION.md](CONTRIBUTION.md).
+If you are interested in joining our efforts, please read the [CONTRIBUTING.md](CONTRIBUTING.md).
