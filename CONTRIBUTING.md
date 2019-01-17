@@ -39,4 +39,4 @@ We also welcome any discussion in the *issues* section. Feel free to open a new 
 
 ## Further Notes:
 
-* If you are going to refactor a certain section or what to add a completely new section, we'd appreciate it that you create a feature branch for it, since that makes it a lot easier tracking the project and handling pull-requests.
+* If you are going to refactor a certain section or want to add a completely new section, we'd appreciate it that you create a feature branch for it, since that makes it a lot easier tracking the project and handling pull-requests.
