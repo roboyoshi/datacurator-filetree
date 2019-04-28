@@ -52,3 +52,4 @@ In this repository, we want to use such systems and provide examples on how they
 * [UDC aka Universal Decimal Classification](https://en.wikipedia.org/wiki/Universal_Decimal_Classification)
 * [UDC Summary, a nice page to see the structure](http://www.udcsummary.info/php/index.php)
 * [LCC aka Library of Congress Classification](https://en.wikipedia.org/wiki/Library_of_Congress_Classification)
+* https://laureltarulli.wordpress.com/
