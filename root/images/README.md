@@ -1,6 +1,7 @@
 ## Content
 
 Images may include, but is not limited to: 
+
 | Category | Description |
 |----------|-------------|
 | Artwork      | Visual artwork, e.g paintings, drawings, sculpture, design           |
