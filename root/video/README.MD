@@ -1,8 +1,8 @@
 ## Content
 
-*There is a wide range of Video-types:*
+*There is a wide range of types:*
 
-Movies, Movie Shorts, Music Videos, Tv-Shows, Documentaries, learning/tutorials, webisodes, dvd extras (making of), real-live captures, vlogs, let's play, and more..  
+Movies, Movie Shorts, Music Videos, Tv-Shows, Documentaries, learning/tutorials, webisodes, dvd extras (making of), real-live captures, vlogs, let's plays, and more..  
 
 The most important are probably Movies and TV-Shows
 
@@ -18,7 +18,7 @@ The most important are probably Movies and TV-Shows
 
 ## Patterns
 
-→ Currently we Use 'movies' because it's more widely adapted instead of 'film'
+→ Currently we use 'movies' because it's more widely adapted instead of 'film'
 
 → `Short Films` should be integrated into the `movies` folder, but can also be put into a seperate `movie-shorts` or `shorts` directory. If really necessary even `short-films` would work.
 
