@@ -1,8 +1,6 @@
 ## Content
 
-The images section, most broadly, contains any kind of digital picture.
-
-## Sub-Sections
+Images may include, but is not limited to:
 
 | Category | Description |
 |----------|-------------|
