@@ -9,24 +9,16 @@
 - Manifestos
 - Short Stories
 
-
-
 ## Sub-Sections
 
 → This Section offers multiple classification systems, ready to unpack and roll.
-
-
 
 * [BISAC](https://bisg.org/page/bisacedition) (thanks to [u/hyperclick76](https://www.reddit.com/user/hyperclick76) !)
 * [UDC](https://en.wikipedia.org/wiki/Universal_Decimal_Classification#Main_tables) (main tables only .. by u/roboyoshi)
 * [LCC](https://en.wikipedia.org/wiki/Library_of_Congress_Classification#Classification) (main sections only .. by u/roboyoshi)
 * [DDC](https://en.wikipedia.org/wiki/Dewey_Decimal_Classification#Classes) (main classes only .. by u/roboyoshi)
 
-
-
 I'd advise to unpack all and go through them real quick, then choose one of the classification systems that you find fits best to your needs and stick with it if possible. Throw away the rest.
-
-
 
 ## Patterns
 
@@ -39,8 +31,6 @@ I'd advise to unpack all and go through them real quick, then choose one of the 
 
 	└── Lastname, Firstname
 		└── Firstname Lastname - [Book Series #] - Book Title {ISBN}.ext
-
-
 
 ## Resources
 

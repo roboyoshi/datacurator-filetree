@@ -1,18 +1,10 @@
 ## Content
 
-
-
 ## Sub-Sections
-
-
 
 ## Patterns
 
-
-
 ## Resources
-
-
 
 ## Notes
 

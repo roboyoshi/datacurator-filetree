@@ -4,8 +4,6 @@ The (digital) audio section contains any kind of sound that is contained within 
 
 Some common file types are: `*.{raw,wav,flac,mp3,m4a,m4b,ogg,opus,aiff,aac}`
 
-
-
 ## Sub-Sections
 
 | Folder       | Contents                                                     |
@@ -17,15 +15,11 @@ Some common file types are: `*.{raw,wav,flac,mp3,m4a,m4b,ogg,opus,aiff,aac}`
 | podcasts     | audio-only broadcasts.. alternative name: `netcast`          |
 | soundtracks  | audio content related to other media like movies, tv-shows and videogames |
 
-
-
 ## Patterns
 
 File naming among music files is a very common topic among enthusiasts and it differs a lot from person to person. The filetree itself already defines a certain pattern that many people can somewhat agree on.
 
 Please feel free to create your own pattern, by reading through the many many forum posts that people started. If you want a quickstart, here are a few common patterns:
-
-
 
 ```
 # + --------------------------------------------------------------------------------
@@ -48,8 +42,6 @@ ALBUM_ARTIST/ALBUM_ARTIST - ALBUM (YEAR) [FORMAT]/CD N/TRACKNR - ARTIST - TRACKT
 # | TODO: Podcasts, Soundtracks, Playlists, ...
 # + -------------------------------------------
 ```
-
-
 
 ## Resources
 
