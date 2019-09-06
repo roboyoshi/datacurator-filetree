@@ -1,9 +1,10 @@
 # filetree
-A FileTree for r/datacurator
 
-Hello and Welcome to the [r/datacurator](https://reddit.com/r/datacurator) filetree repository.  
+A filetree for r/datacurator
 
-We aim to create a unified filetree for all kinds of data.
+Hello and welcome to the [r/datacurator](https://reddit.com/r/datacurator) filetree repository.
+
+We aim to create a unified filetree for all kinds of data, which should help in storing, categorising and retrieving.
 
 ---
 
