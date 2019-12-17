@@ -1,3 +1,0 @@
-## An Example Website
-
-Blub.
