@@ -13,6 +13,7 @@ The **root** defines several *main sections*. These main sections allow for an e
 | Folder     | Contents                                                     |
 | ---------- | ------------------------------------------------------------ |
 | adult      | Adult content separated into own folder.                     |
+| archives   | Websites, Datasets, Backups & Dumps, ...                     |
 | audio      | Music, Sounds, Podcasts, Game Audio, ...                     |
 | documents  | Personal Documents (Bills, Photos, Backups, ..)              |
 | images     | Art, Photography, Fanart                                     |
@@ -20,7 +21,6 @@ The **root** defines several *main sections*. These main sections allow for an e
 | literature | books, writings, scientific papers, articles, ...            |
 | software   | Computer Applications, Mobile Apps, Operating Systems        |
 | video      | Movies, Short Movies/Films, TV-Shows, ...                    |
-| web        | raw internet content of any kind sorted by domain            |
 
 
 
