@@ -1,0 +1,181 @@
+tree
+├── Movies
+│   └── [Movie Name]([Rel Date])
+│       └── ...
+├── TV
+│   └── [Show Name]([Rel Date])
+│       └── Season [Season Number]
+│           └── [sNumb]x[eNumb] - [Episode Title]
+│               └── ...
+├── Music  
+│   └── [Artist]
+│       └── [Album]
+│           └── [trackNumb] [SongTitle]
+├── Family Pictures
+│   ├── [Event]([Event Date])
+│   │   └── [file]
+│   └── UnSorted
+│       └── [file]
+├── Games 
+│   ├── PC
+│   │   └── [Game Name]([Rel Date])
+│   │       └── [files]
+│   ├── MAME
+│   │   └── [Game Name]([Rel Date])
+│   │       └── [files]
+│   ├── Playstation
+│   │   ├── Playstation
+│   │   │   └── [Game Name]([Rel Date])
+│   │   │       └── [files]
+│   │   ├── Playstation 2
+│   │   │   └── [Game Name]([Rel Date])
+│   │   │       └── [files]
+│   │   ├── Playstation 3
+│   │   │   └── [Game Name]([Rel Date])
+│   │   │       └── [files]
+│   │   ├── Playstation 4
+│   │   │   └── [Game Name]([Rel Date])
+│   │   │       └── [files]
+│   │   ├── Playstation Portable
+│   │   │   └── [Game Name]([Rel Date])
+│   │   │       └── [files]
+│   │   └── Playstation Vita
+│   │       └── [Game Name]([Rel Date])
+│   │           └── [files]
+│   ├── Nintendo
+│   │   ├── NES
+│   │   │   └── [Game Name]([Rel Date])
+│   │   │       └── [files]
+│   │   ├── Super Nintendo
+│   │   │   └── [Game Name]([Rel Date])
+│   │   │       └── [files]
+│   │   ├── Nintendo 64
+│   │   │   └── [Game Name]([Rel Date])
+│   │   │       └── [files]
+│   │   │   ├── Nintendo Gamecube
+│   │   │   └── [Game Name]([Rel Date])
+│   │   │       └── [files]
+│   │   ├── Nintendo Wii
+│   │   │   └── [Game Name]([Rel Date])
+│   │   │       └── [files]
+│   │   ├── Nintendo WiiU
+│   │   │   └── [Game Name]([Rel Date])
+│   │   │       └── [files]
+│   │   ├── Nintendo Switch
+│   │   │   └── [Game Name]([Rel Date])
+│   │   │       └── [files]
+│   │   ├── Nintendo DS
+│   │   │   └── [Game Name]([Rel Date])
+│   │   │       └── [files]
+│   │   ├── Nintendo 3DS
+│   │   │   └── [Game Name]([Rel Date])
+│   │   │       └── [files]
+│   │   └── Nintendo Game Boy
+│   │       └── [Game Name]([Rel Date])
+│   │           └── [files]
+│   ├── Xbox
+│   │   ├── Xbox
+│   │   │   └── [Game Name]([Rel Date])
+│   │   │       └── [files]
+│   │   ├── Xbox 360
+│   │   │   └── [Game Name]([Rel Date])
+│   │   │       └── [files]
+│   │   └── Xbox One
+│   │       └── [Game Name]([Rel Date])
+│   │           └── [files]
+│   ├── Atari
+│   │   ├── Atari 2600
+│   │   │   └── [Game Name]([Rel Date])
+│   │   │       └── [files]
+│   │   └── Atari 5200
+│   │       └── [Game Name]([Rel Date])
+│   │           └── [files]
+│   └── Sega
+│       ├── Sega Genesis
+│       │   └── [Game Name]([Rel Date])
+│       │       └── [files]
+│       ├── Sega Master System
+│       │   └── [Game Name]([Rel Date])
+│       │       └── [files]
+│       └── Sega Dreamcast
+│           └── [Game Name]([Rel Date])
+│               └── [files]
+├── Software
+│   └── [publisher]
+│        └── [product]|[version]
+│            └── [files]
+├── Operation Systems
+│   └── [OS]
+│        └── [Ver]([Rel Date])
+│            └── [OS][Ver]([Rel Date]).iso
+├── Writings
+│   ├── Literature
+│   │   └── [UCD]|[ISBN]|[Title]|[Subtitle]
+│   │       ├── [Title]md.xml
+│   │       ├── [Title].epub
+│   │       ├── [Title].pdf
+│   │       └── [Title].audiobook
+│   ├── Textbooks
+│   │   └── [UCD]|[ISBN]|[Title]|[Subtitle]
+│   │       ├── [Title]md.xml
+│   │       ├── [Title].epub
+│   │       ├── [Title].pdf
+│   │       └── [Title].audiobook
+│   ├── Documents
+│   │   └── [UCD]|[ISBN]|[Title]|[Subtitle]
+│   │       ├── [Title]md.xml
+│   │       ├── [Title].epub
+│   │       ├── [Title].pdf
+│   │       └── [Title].audiobook
+│   ├── Periodicals
+│   │   ├── Popular
+│   │   │   └── [UCD]|[Publication]
+│   │   │       └── [Volume] ([Issue])
+│   │   │           ├── [Volume] ([Issue])md.xml
+│   │   │           ├── [Volume] ([Issue]).epub
+│   │   │           └── [Volume] ([Issue]).pdf
+│   │   ├── Trade
+│   │   │   └── [UCD]|[Publication]
+│   │   │       └── [Volume] ([Issue])
+│   │   │           ├── [Volume] ([Issue])md.xml
+│   │   │           ├── [Volume] ([Issue]).epub
+│   │   │           └── [Volume] ([Issue]).pdf
+│   │   └── Scholarly
+│   │       └── [UCD]|[Publication]
+│   │           └── [Volume] ([Issue])
+│   │               ├── [Volume] ([Issue])md.xml
+│   │               ├── [Volume] ([Issue]).epub
+│   │               └── [Volume] ([Issue]).pdf
+│   ├── Newspapers
+│   │   └── [Name], [Location]
+│   │       └── [Publish Date]
+│   │           ├── [Name][Publish Date]md.xml
+│   │           ├── [Name][Publish Date].pdf
+│   │           └── [ArticleName]
+│   │               └── [ArticleName].pdf
+│   │               └── [ArticleName].HTML
+│   │               └── [Media]
+│   ├── News Sites
+│   │   └── ...
+│   └── ... 
+├── Online Videos
+│   └── [Channel][Site]
+│       └── [Video Name]([Rel Date])
+│           └── ...
+├── Reddit Post
+│   └── [subreddit]
+│       └── [postname]|[postID]([Rel Date])
+│           └── ...
+├── Websites
+│   └── [TLD]
+│       └── ...
+├── Images
+│   └── ...
+├── Memes
+│   └── ...
+├── Video Loops
+│   └── ...
+├── Audio Loops
+│   └── ...
+└── Sounds
+    └── ...
