@@ -1,46 +1,12 @@
-# Untouched
+# Discs
 
----
+> This is plain DVD/BD Dumps of Movies/Series/Documentaries/etc.
 
-This is plain DVD/BD Dumps of Movies/Series/Documentaries/etc.
 
-**Naming:**
 
----
+## Naming
 
-DVD:
-
-```
-# Movies:
-Localized.Title
-	.YYYY
-		(.LANG)
-		(.DL|.ML)
-		(.ANiME|.HENTAi|.DOCU|.XXX)   
-		(.xDISC)
-		(.COMPLETE) # DVD is kept 'as is'
-	.PAL|.NTSC
-		(.PROPER)
-	.DVDR|.DVD9
-		(.iNTERNAL)
-	-GRP
-
-# TV-Series:
-Localized.Title
-		(.SXX.DXX|COMPLETE)
-		(.LANG) # Only if 1 Audio Stream is available
-		(.DUAL|.MULTi)
-		(.ANiME|.HENTAi|.DOKU|.XXX)
-		(.xDISC)
-		(.COMPLETE)
-	.PAL|.NTSC
-		(.PROPER)
-	.DVDR|.DVD9
-		(.iNTERNAL)
-	-GRP
-```
-
-Examples:
+DVD Examples:
 
 ```
 # Movies:
@@ -55,32 +21,7 @@ Eine.Schrecklich.nette.Familie.S01.DiSC1.GERMAN.MULTi.PAL.DVD9-GRP
 
 ---
 
-BluRay:
-
-```
-# Scene Naming:
-Localized.Title.
-		(Sxx.DiSCx.)
-	YEAR
-		(.ANiME|.HENTAi|.DOKU|.XXX)
-		<.DUAL|.MULTi|.(LANGUAGE)>
-	.COMPLETE(.UHD).BLURAY
-		(.PROPER|.iNTERNAL|.READNFO|.REPACK|.RERiP)
-	-GROUP
-
-# Alternative Naming (P2P):
-Localized.Title.
-		(Sxx.DiSCx.)
-	(YEAR) # Movie only
-	.<720p.1080p|2160p>
-	.HDDVD|.BluRay
-	.VIDEO
-	.AUDIO.CH
-	-GROUP
-
-```
-
-Examples:
+BluRay Examples:
 
 ```
 # Scene:
@@ -107,3 +48,8 @@ This is obviously a personal preference, but whatever you decide for, try to sti
 
 * A copy of `VIDEO_TS/AUDIO_TS` (DVD) or `BDMV` (BluRay)
 * A backup image of the disc as `*.iso/*.img`
+
+
+
+## References
+

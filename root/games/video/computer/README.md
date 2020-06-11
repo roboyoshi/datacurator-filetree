@@ -18,4 +18,3 @@ Potential Naming Options
 
 - https://en.wikipedia.org/wiki/PC_game
 - https://en.wikipedia.org/wiki/Mac_gaming
-- 

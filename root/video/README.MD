@@ -10,13 +10,15 @@ The most important are probably Movies and TV-Shows
 * TV Shows and Anime ? Together in 1 Directory or splitted?
 * TV Shows and Web-Series (Youtube Series, inofficial stuff) - splitted?
 
-## Sub-Sections
+
 
 ## Patterns
 
 → Currently we use 'movies' because it's more widely adapted instead of 'film'
 
 → `Short Films` should be integrated into the `movies` folder, but can also be put into a seperate `movie-shorts` or `shorts` directory. If really necessary even `short-films` would work.
+
+
 
 ## Resources
 
