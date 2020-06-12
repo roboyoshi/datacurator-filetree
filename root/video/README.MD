@@ -20,6 +20,21 @@ The most important are probably Movies and TV-Shows
 
 
 
+## Multiple Languages
+
+If you have movies in multiple languages you have a few options available:
+
+1. Have all in the same folder
+2. Split them at the higher level (`movies-en`, `movies-fr`, `movies-de`, ....)
+3. Split them at the movie level (`'movies/The Movie (Year) [en]`', '`movies/The Movie (Year) [jp]`'
+4. Split them at the higher level (`root/videos/german/{movies,tv..}`)
+
+
+
+This depends how many languages you maintain and how much work you want to put into this. Usually it is enough to have 1 folder `movies` with sub-folders of the actual movie title and then throw everything in there.
+
+
+
 ## Resources
 
 - https://kodi.wiki/view/Naming_video_files/Movies
