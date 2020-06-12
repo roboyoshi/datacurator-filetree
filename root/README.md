@@ -15,7 +15,7 @@ The **root** defines several *main sections*. These main sections allow for an e
 | adult      | Adult content separated into own folder.                     |
 | archives   | Websites, Datasets, Backups & Dumps, ...                     |
 | audio      | Music, Sounds, Podcasts, Game Audio, ...                     |
-| documents  | Personal Documents (Bills, Photos, Backups, ..)              |
+| documents  | Personal Documents (Invoices, Forms, Letters, ..)            |
 | images     | Art, Photography, Fanart                                     |
 | games      | boardgames, cardgames, videogames, arcade, virtual reality, ... |
 | literature | books, writings, scientific papers, articles, ...            |

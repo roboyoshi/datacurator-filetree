@@ -1,3 +1,9 @@
+# System Software
+
+> System software is software designed to provide a platform for other software. (Operating Systems / Game Engines / SaaS Platforms)
+
+
+
 There are many operating systems, and there will only be more of them in the future. You should group these together by vendor. Within these vendors, grouping them together by OS family is also a good idea. 
 
 For each OS, I'd recommend it having its own subfolder. For example:

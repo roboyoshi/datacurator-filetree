@@ -1,15 +1,8 @@
-## Content
+## Software
 
-## Sub-Sections
+> Everything that is source code, compiled code or in other ways a form of digital applications.
 
-## Patterns
+* can be more than just PC (x86/x64)
+* should also include "retro"-software
+* can include games as well
 
-## Resources
-
-## Notes
-
-* Software can be more than just PC (x86/x64)
-* Should also include "retro"-software
-* CAN include games?
-* How to treat open-source software - is that more of a project?
-* Sub-Divide by version? Put all in 1 Folder? Keep Name of original release?
