@@ -1,3 +1,11 @@
+# Soundtracks
+
+> Music and sound specifically created/composed/compiled for a movie, television show or videogame etc.
+
+
+
+## Variants
+
 Soundtracks:
 
 (OST) / (Original Sound Track) / (Original Soundtrack)
@@ -25,8 +33,6 @@ Soundtracks:
 > - Title (Score)
 > - Title (Soundtrack)
 
-
-
 ```
 Music From The Original Motion Picture Soundtrack
 Music From And Inspired By The Motion Picture
@@ -34,9 +40,11 @@ Music From And Inspired By The Motion Picture
 
 
 
-→ https://en.wikipedia.org/wiki/Soundtrack
+## Resources
 
-→ https://en.wikipedia.org/wiki/Soundtrack_album
+- https://en.wikipedia.org/wiki/Soundtrack
 
-→ https://en.wikipedia.org/wiki/Video_game_music
+- https://en.wikipedia.org/wiki/Soundtrack_album
+
+- https://en.wikipedia.org/wiki/Video_game_music
 
