@@ -4,6 +4,14 @@
 
 
 
+**NOTE:**
+
+This folder is pretty much **optional**. Every Soundtrack usually comes with an album-artist, composer, artist, etc.
+
+This folder only exists for people who like to separate the common `artist - album` releases from soundtracks specifically. Reasons vary, but you can usually find things faster when it's splitted.
+
+
+
 ## Variants
 
 Soundtracks:

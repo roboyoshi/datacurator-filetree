@@ -1,3 +1,9 @@
+# Various Artists
+
+> Is a 'catch-all' artists for compilations. Also often shortened to "Various".
+
+
+
 Set/Grouping (If Split into Volumes or Generally Counting, e.g. Bravo Hits, About Berlin,..)
 
 Grouping

@@ -6,14 +6,15 @@ Some common file types are: `*.{raw,wav,flac,mp3,m4a,m4b,ogg,opus,aiff,aac}`
 
 ## Sub-Sections
 
-| Folder       | Contents                                                     |
-| ------------ | ------------------------------------------------------------ |
-| artists      | music artists / bands                                        |
-| books        | recordings of books read by a person (aka audiobooks)        |
-| compilations | collections of music gathered from different artists / albums / events |
-| playlists    | radio streams, music playlists, ..                           |
-| podcasts     | audio-only broadcasts.. alternative name: `netcast`          |
-| soundtracks  | audio content related to other media like movies, tv-shows and videogames |
+| Folder      | Contents                                                     |
+| ----------- | ------------------------------------------------------------ |
+| books       | recordings of books read by a person (aka audiobooks)        |
+| music       | music artists / bands                                        |
+| playlists   | radio streams, music playlists, ..                           |
+| podcasts    | audio-only broadcasts.. alternative name: `netcasts`         |
+| recordings  | voice memos, studio recordings, usually RAW wave audio       |
+| soundfx     | audio effects like fire, crashes, screaming, clapping, etc.  |
+| soundtracks | audio content related to other media like movies, tv-shows and videogames |
 
 ## Patterns
 
