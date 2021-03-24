@@ -1,38 +1,81 @@
-# filetree
+# root
 
-Hello and welcome to the [r/datacurator](https://reddit.com/r/datacurator) filetree repository.
+The root folder defines the entrypoint for whatever storage medium might be serving it.
 
-We aim to create a unified filetree for all kinds of data, which should help in storing, categorising and retrieving.
+Usually people use an external drive, a network share exposed by a NAS or even bigger things like cluster shares.
 
-
-
-## Branches
-
-You are now looking at the default full-blown filetree. Often times you don't need that. So we have a few other variants that you can use, which may better fit your use-case.
-
-[default](https://github.com/roboyoshi/datacurator-filetree/tree/master) - The "master" filetree that includes everything.
-
-[plex](https://github.com/roboyoshi/datacurator-filetree/tree/chroot/plex) - Only contains the folder structures relevant to the Plex Media Server
-
-[scene](https://github.com/roboyoshi/datacurator-filetree/tree/chroot/scene) - A filetree that is suited for curating warez
-
-[home](https://github.com/roboyoshi/datacurator-filetree/tree/user/roboyoshi.home) - A view on my personal folder structure for user accounts.
-
-> Note: If you think we are missing a (common) scenario, feel free to open an issue and request it.
->
-> We will try to review and incorporate it here.
-
+The **root** defines several *main sections*. These main sections allow for an easy seperation of content and should stay within a certain cognitive complexity.
 
 
 
 ## Overview
 
-Here is a quick screenshot on what the current tree looks like (occasionally updated).
+| Folder     | Contents                                                     |
+| ---------- | ------------------------------------------------------------ |
+| adult      | Adult content separated into own folder.                     |
+| archives   | Websites, Datasets, Backups & Dumps, ...                     |
+| audio      | Music, Sounds, Podcasts, Game Audio, ...                     |
+| documents  | Personal Documents (Invoices, Forms, Letters, ..)            |
+| images     | Art, Photography, Fanart                                     |
+| games      | boardgames, cardgames, videogames, arcade, virtual reality, ... |
+| literature | books, writings, scientific papers, articles, ...            |
+| software   | Computer Applications, Mobile Apps, Operating Systems        |
+| video      | Movies, Short Movies/Films, TV-Shows, ...                    |
 
-![](overview.png)
 
 
+## General Advice
 
-## Contributing
+In this Section we want to give you some general advice on things you should be aware of.
 
-If you are interested in joining our efforts, please read the [CONTRIBUTING.md](CONTRIBUTING.md).
+These are optional and sometimes biased. If you do not agree to them - be it partially or completely -  just ignore this part.
+
+### Naming Files and Folders
+
+1. Naming in General
+
+Naming is hard. We know that. You want everything neat and tidy, but sometimes things just don't go that way - and that is perfectly fine.  **Don't be afraid to break the rules and adjust this tree to your needs.**
+
+2. Technical Issues
+
+Some systems simply do not allow certain characters, some others do not play nice with them.
+
+Here is a small (and incomplete) list of characters you should avoid (AKA "Forbidden Characters")
+
+- *Please use this list as a general rule of thumb.*
+- *The List applies to all major operating systems.*
+
+```
+File Seperators:
+: (colon)
+/ (forward slash)
+\ (backward slash aka "backslash")
+
+Non-alphabetical and non-numerical symbols:
+¢ (Cent Symbol)
+™ (Trademark Symbol)
+$ (Dollar-Sign)
+® (Registered Trademark Symbol)
+
+Punctuation marks, parentheses, quotation marks, brackets and operators:
+< (less than)
+> (greater than)
+" (double quote)
+' (single quote)
+| (vertical bar or pipe)
+? (question mark)
+* (asterisk)
+
+Other, rather technical "characters":
+MultiSpace ("Foo.      Bar   .txt")
+Tab
+Newline
+NUL (integer value zero)
+Embedded Returns
+```
+
+References:
+
+- [Superuser StackExchange - How to create folder name with special characters?](https://superuser.com/a/1112140)
+- [Superuser StackExchange - What are invalid characters for a file name under OS X?](https://superuser.com/questions/326103/what-are-invalid-characters-for-a-file-name-under-os-x)
+- [StackOverflow - What characters are forbidden in Windows and Linux directory names?](https://stackoverflow.com/a/31976060)
