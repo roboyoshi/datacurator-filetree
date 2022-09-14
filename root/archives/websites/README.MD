@@ -8,6 +8,6 @@ Basically snapshots/dumps/rips of a given website/webapp bound to a point in tim
 
 ## Patterns
 
-## Resurces
+## Resources
 
 - https://archive.org/
