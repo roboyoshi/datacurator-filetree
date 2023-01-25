@@ -1,6 +1,6 @@
 # Naming Scheme
 
-Naming schema can be as follows:
+Naming scheme can be as follows:
 ```
 MovieTitle (Year) {Identifier} /
 ├── MovieTitle (Year) {Identifier}.mkv
@@ -13,7 +13,7 @@ Example:
 ```
 Avatar (2009)/
 ├── Avatar (2009).mkv
-├── Avatar (2009.en.srt
+├── Avatar (2009).en.srt
 └── cover.jpg
 ```
 
