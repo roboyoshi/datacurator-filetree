@@ -1,10 +1,7 @@
-# Content
+# ./archives/datasets
 
-collections of data, typically in tabular format 
+## Content
 
+Collections of data, typically in tabular format
 
-
-
-
-- https://en.wikipedia.org/wiki/Data_set
-
+- [Data set](https://en.wikipedia.org/wiki/Data_set)
