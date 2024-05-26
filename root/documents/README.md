@@ -1,3 +1,5 @@
+# ./documents
+
 ## Content
 
 Personal documents like letters, poems, forms, bills, etc.
@@ -14,11 +16,11 @@ One of the most common file naming schemes is the use of the date in ISO8601 for
 
 > 2019-09-01 - August 2019 Utilities Bill.pdf
 
-```
+```md
 # TODO: Personal File Naming Patterns
 # e.g. bills (yyyy-mm-dd - 20 char description.pdf)
 ```
 
 ## Resources
 
-- http://www.asianefficiency.com/organization/organizing-files-folders-documents/
+- [How to Organize Files, Folders and Documents For Maximum Productivity](http://www.asianefficiency.com/organization/organizing-files-folders-documents/)
