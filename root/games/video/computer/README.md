@@ -2,8 +2,6 @@
 
 > Mainly Linux, Mac and Windows
 
-
-
 Potential Naming Options
 
 | <~   | ~~          | ~>        |
@@ -12,9 +10,7 @@ Potential Naming Options
 | win  | windows     | Windows   |
 | nix  | linux       | Linux     |
 
-
-
 ## Resources
 
-- https://en.wikipedia.org/wiki/PC_game
-- https://en.wikipedia.org/wiki/Mac_gaming
+- [PC game](https://en.wikipedia.org/wiki/PC_game)
+- [Mac gaming](https://en.wikipedia.org/wiki/Mac_gaming)
