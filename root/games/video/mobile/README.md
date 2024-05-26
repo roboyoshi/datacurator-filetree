@@ -1,6 +1,3 @@
 # Mobile
 
 > iOS, Android, PDA, ...
-
-
-
