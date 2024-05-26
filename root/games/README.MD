@@ -10,4 +10,4 @@ Folder names are intentionally lowercase to not mess with different systems and 
 
 ## Resources
 
-- [](https://en.wikipedia.org/wiki/Game)
+- [Game](https://en.wikipedia.org/wiki/Game)
