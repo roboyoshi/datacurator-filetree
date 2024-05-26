@@ -1,3 +1,5 @@
+# ./audio
+
 ## Content
 
 The (digital) audio section contains any kind of sound that is contained within a file - such as music, sounds, sound effects, podcasts, audiobooks, event recordings (musicals, concerts, standup comedy), games and many others.
@@ -22,7 +24,7 @@ File naming among music files is a very common topic among enthusiasts and it di
 
 Please feel free to create your own pattern, by reading through the many many forum posts that people started. If you want a quickstart, here are a few common patterns:
 
-```
+```md
 # + --------------------------------------------------------------------------------
 # | Music
 
@@ -46,7 +48,7 @@ ALBUM_ARTIST/ALBUM_ARTIST - ALBUM (YEAR) [FORMAT]/CD N/TRACKNR - ARTIST - TRACKT
 
 ## Resources
 
-- https://musicbrainz.org/ - A community-maintained music metadata database.
-- https://www.discogs.com/ - A database and marketplace for music.
-- https://hydrogenaud.io/ - A community for discussion of audio technology.
-- http://beets.io/ - A command-line based music tagger and cataloger.
+- [A community-maintained music metadata database.](https://musicbrainz.org/)
+- [A database and marketplace for music.](https://www.discogs.com/)
+- [A community for discussion of audio technology.](https://hydrogenaud.io/)
+- [A command-line based music tagger and cataloger.](http://beets.io/)

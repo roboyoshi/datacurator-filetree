@@ -1,3 +1,5 @@
+# ./images
+
 ## Content
 
 Images may include, but is not limited to:
@@ -9,7 +11,7 @@ Images may include, but is not limited to:
 | Charts       | Graphical representations of data, e.g graphs, chloropleth maps           |
 | Memes        | Internet memes, primarily created for humor           |
 | Photos       | Images that are taken of real life           |
-| Purpose-based | Subcategories of types of images that are used for a specific purpose
+| Purpose-based | Subcategories of types of images that are used for a specific purpose |
 | Screenshots  | Digital images of what appears on a screen           |
 
 ## Patterns
@@ -18,5 +20,5 @@ TODO
 
 ## Resources
 
-* https://en.wikipedia.org/wiki/Image
-* https://en.wikipedia.org/wiki/Work_of_art
+- [Image](https://en.wikipedia.org/wiki/Image)
+- [Work of art](https://en.wikipedia.org/wiki/Work_of_art)

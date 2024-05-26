@@ -2,8 +2,6 @@
 
 > = Handheld Consoles
 
-
-
 Potential Folder Names for each Platform/System (short→long)
 
 ```ini
@@ -17,8 +15,6 @@ Nintendo Game Boy
 
 > Use the style that fits your case best. If you have lots of automation, you appreciate the shorter and lowercase+dashed variants. If you want a "nice to browse" collection, choose the longer and explicit style.
 
-
-
 Each System Folder may include
 
 - Games
@@ -28,8 +24,6 @@ Each System Folder may include
 - Instructions, Manuals, Booklets
 - Design Documents
 
-
-
 ## Resources
 
-- https://en.wikipedia.org/wiki/Handheld_game_console
+- [Handheld game console](https://en.wikipedia.org/wiki/Handheld_game_console)

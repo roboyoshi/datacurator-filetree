@@ -2,16 +2,13 @@
 
 > System software is software designed to provide a platform for other software. (Operating Systems / Game Engines / SaaS Platforms)
 
-
-
-There are many operating systems, and there will only be more of them in the future. You should group these together by vendor. Within these vendors, grouping them together by OS family is also a good idea. 
+There are many operating systems, and there will only be more of them in the future. You should group these together by vendor. Within these vendors, grouping them together by OS family is also a good idea.
 
 For each OS, I'd recommend it having its own subfolder. For example:
 
     /Microsoft
         /Windows
             /Windows 3.11
-
 
 Thus, other supplementary files can be stored along with the installation files (user manuals, for instance).
 
@@ -20,5 +17,4 @@ Finally, care should be taken to use the correct characters for naming these fol
     /IBM
         /OS／2
 
-These are only guidelines, however. Feel free to adjust and modify, and don't forget that you can go back and change something if it still doesn't feel or work right. And if you think you've got something really clever, consider offering it back to the rest of us here at https://github.com/roboyoshi/datacurator-filetree .
-
+These are only guidelines, however. Feel free to adjust and modify, and don't forget that you can go back and change something if it still doesn't feel or work right. And if you think you've got something really clever, consider offering it back to the rest of us here at [datacurator filetree](https://github.com/roboyoshi/datacurator-filetree).

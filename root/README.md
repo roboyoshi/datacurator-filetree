@@ -6,8 +6,6 @@ Usually people use an external drive, a network share exposed by a NAS or even b
 
 The **root** defines several *main sections*. These main sections allow for an easy seperation of content and should stay within a certain cognitive complexity.
 
-
-
 ## Overview
 
 | Folder     | Contents                                                     |
@@ -22,8 +20,6 @@ The **root** defines several *main sections*. These main sections allow for an e
 | software   | Computer Applications, Mobile Apps, Operating Systems        |
 | video      | Movies, Short Movies/Films, TV-Shows, ...                    |
 
-
-
 ## General Advice
 
 In this Section we want to give you some general advice on things you should be aware of.
@@ -34,7 +30,7 @@ These are optional and sometimes biased. If you do not agree to them - be it par
 
 1. Naming in General
 
-Naming is hard. We know that. You want everything neat and tidy, but sometimes things just don't go that way - and that is perfectly fine.  **Don't be afraid to break the rules and adjust this tree to your needs.**
+    Naming is hard. We know that. You want everything neat and tidy, but sometimes things just don't go that way - and that is perfectly fine.  **Don't be afraid to break the rules and adjust this tree to your needs.**
 
 2. Technical Issues
 
@@ -45,7 +41,7 @@ Here is a small (and incomplete) list of characters you should avoid (AKA "Forbi
 - *Please use this list as a general rule of thumb.*
 - *The List applies to all major operating systems.*
 
-```
+```txt
 File Seperators:
 : (colon)
 / (forward slash)

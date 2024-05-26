@@ -1,10 +1,12 @@
+# ./software/applications
+
 There are a multitude operating systems, and there will only be more of them in the future. You should group these together by OS family. Users that have a great many OS families (collecting historical applications for abandoned operating systems and plaforms) might consider grouping by vendor first, then OS families.
 
 For example:
 
     /Android
 
-Or: 
+Or:
 
     /Microsft
         /Win32
@@ -24,4 +26,4 @@ Those who have many hundreds of applications might consider grouping by vendor a
         /Adobe
             /Photoshop 14
 
-These are only guidelines, however. Feel free to adjust and modify, and don't forget that you can go back and change something if it still doesn't feel or work right. And if you think you've got something really clever, consider offering it back to the rest of us here at https://github.com/roboyoshi/datacurator-filetree .
+These are only guidelines, however. Feel free to adjust and modify, and don't forget that you can go back and change something if it still doesn't feel or work right. And if you think you've got something really clever, consider offering it back to the rest of us here at [Datacurator filetree](https://github.com/roboyoshi/datacurator-filetree).

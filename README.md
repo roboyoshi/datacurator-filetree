@@ -4,8 +4,6 @@ Hello and welcome to the [r/datacurator](https://reddit.com/r/datacurator) filet
 
 We aim to create a unified filetree for all kinds of data, which should help in storing, categorising and retrieving.
 
-
-
 ## Branches
 
 You are now looking at the default full-blown filetree. Often times you don't need that. So we have a few other variants that you can use, which may better fit your use-case.
@@ -22,16 +20,11 @@ You are now looking at the default full-blown filetree. Often times you don't ne
 >
 > We will try to review and incorporate it here.
 
-
-
-
 ## Overview
 
 Here is a quick screenshot on what the current tree looks like (occasionally updated).
 
-![](overview.png)
-
-
+![file-tree](overview.png)
 
 ## Contributing
 
