@@ -1,18 +1,17 @@
-## TV-Shows
+# TV-Shows
 
 **Things to consider:**
 
-* Merging TV Series with *Anime* and *Animated* Content (aka *Cartoons*, since they both are broadcasted on national TV, as well as on VOD Services.
-* Internationalized Names vs. Localized Names ('Shingeki No Kyojin' vs 'Attack on Titan')
-* CAN be split further if people like to split their libraries. (Anime/Cartoon/TV/Kids/..)
-* Appending Years is almost always a good Idea (as with movies) - there might be multiple variants.. (Matching with DB seems to be a bit off though..)
-
+- Merging TV Series with *Anime* and *Animated* Content (aka *Cartoons*, since they both are broadcasted on national TV, as well as on VOD Services.
+- Internationalized Names vs. Localized Names ('Shingeki No Kyojin' vs 'Attack on Titan')
+- CAN be split further if people like to split their libraries. (Anime/Cartoon/TV/Kids/..)
+- Appending Years is almost always a good Idea (as with movies) - there might be multiple variants.. (Matching with DB seems to be a bit off though..)
 
 There is a good reason why Anime is often split - because the Naming differs in a kinda uncomfortable way. See Attack on Titan For Example - Season 2 is actually considered a new Series and Just named as "season 2". But at the Same Time the Episode Count just keeps going up instead of being reset.
 
 Sherlock on the other Hand has a Classic Season / Episode Structure that is much easier to follow.  
 
-* We need to find a structure that either sqauashes one into the other, or keep it seperate.
+- We need to find a structure that either sqauashes one into the other, or keep it seperate.
 
 ----
 
@@ -28,8 +27,6 @@ Still talking about the United States ... A television "series" is all of the sh
 
 In the UK, the terminology is different. They use "series" to mean what we in the US would probably call "seasons." In the UK they'd say that Lady Mary had a baby in "Series Three" of Downton Abbey. In the US, we'd say that Lady Mary had the baby in "Season Three."
 
-
-
 | Naming                   | EU/UK    | US      | JP (Anime)                    |
 | ------------------------ | -------- | ------- | ----------------------------- |
 | The whole thing          | Programs | Shows   | Tv-Shows                      |
@@ -38,9 +35,6 @@ In the UK, the terminology is different. They use "series" to mean what we in th
 
 > Program is usually also the daily schedule of the broadcasting station.
 
-
-
 ## References
 
-- https://www.quora.com/What-is-the-difference-between-a-TV-series-and-a-TV-show
-
+- [What is the difference between a TV series and a TV show?](https://www.quora.com/What-is-the-difference-between-a-TV-series-and-a-TV-show)
