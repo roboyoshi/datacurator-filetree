@@ -2,13 +2,11 @@
 
 > This is plain DVD/BD Dumps of Movies/Series/Documentaries/etc.
 
-
-
 ## Naming
 
 DVD Examples:
 
-```
+```md
 # Movies:
 Constantine.2005.COMPLETE.PAL.DVD9-GRP
 Pets.2016.COMPLETE.PAL.DVD9-GRP
@@ -23,7 +21,7 @@ Eine.Schrecklich.nette.Familie.S01.DiSC1.GERMAN.MULTi.PAL.DVD9-GRP
 
 BluRay Examples:
 
-```
+```md
 # Scene:
 Die.Unglaublichen.2004.MULTi.COMPLETE.BLURAY-GRP
 Fantastic.Mr.Fox.2009.NORDiC.COMPLETE.BLURAY-GRP
@@ -46,10 +44,7 @@ This is obviously a personal preference, but whatever you decide for, try to sti
 
 **Files and Formats:**
 
-* A copy of `VIDEO_TS/AUDIO_TS` (DVD) or `BDMV` (BluRay)
-* A backup image of the disc as `*.iso/*.img`
-
-
+- A copy of `VIDEO_TS/AUDIO_TS` (DVD) or `BDMV` (BluRay)
+- A backup image of the disc as `*.iso/*.img`
 
 ## References
-
