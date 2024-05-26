@@ -2,15 +2,11 @@
 
 > Music and sound specifically created/composed/compiled for a movie, television show or videogame etc.
 
-
-
 **NOTE:**
 
 This folder is pretty much **optional**. Every Soundtrack usually comes with an album-artist, composer, artist, etc.
 
 This folder only exists for people who like to separate the common `artist - album` releases from soundtracks specifically. Reasons vary, but you can usually find things faster when it's splitted.
-
-
 
 ## Variants
 
@@ -28,7 +24,7 @@ Soundtracks:
 
 > An officially released album that contains music from the original in-game audio.
 >
-> Examples: 
+> Examples:
 >
 > - Chrono Trigger Original Sound Version
 
@@ -41,18 +37,15 @@ Soundtracks:
 > - Title (Score)
 > - Title (Soundtrack)
 
-```
+```md
 Music From The Original Motion Picture Soundtrack
 Music From And Inspired By The Motion Picture
 ```
 
-
-
 ## Resources
 
-- https://en.wikipedia.org/wiki/Soundtrack
+- [Soundtrack](https://en.wikipedia.org/wiki/Soundtrack)
 
-- https://en.wikipedia.org/wiki/Soundtrack_album
+- [Soundtrack album](https://en.wikipedia.org/wiki/Soundtrack_album)
 
-- https://en.wikipedia.org/wiki/Video_game_music
-
+- [Video game music](https://en.wikipedia.org/wiki/Video_game_music)
